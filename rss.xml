@@ -6,8 +6,87 @@
         <link>http://tri.ekynoxe.com</link>
         <atom:link href="http://tri.ekynoxe.com/feed.xml" rel="self" type="application/rss+xml" />
         <language>en-gb</language>
-        <pubDate>Tue, 18 Oct 2016 21:54:55 +0100</pubDate>
-        <lastBuildDate>Tue, 18 Oct 2016 21:54:55 +0100</lastBuildDate>
+        <pubDate>Thu, 27 Oct 2016 08:55:33 +0100</pubDate>
+        <lastBuildDate>Thu, 27 Oct 2016 08:55:33 +0100</lastBuildDate>
+        
+            <item>
+                <title>Stryd: A first run with power</title>
+                <description>&lt;p&gt;At the Ironman World Championship in Kona, &lt;a href=&quot;https://www.stryd.com/&quot;&gt;Stryd&lt;/a&gt; was running a data-gathering trial to help them improve their product, a running power meter in foot-pod.&lt;/p&gt;
+
+&lt;p&gt;As a data geek, I liked the idea of collecting more data for my run. At least as a curiosity.
+I collected a foot-pod - kindly lent for the race by Stryd for free - a couple of days before the event. I was only going to let it record data, and not attempt to change any settings on my watch to display any field that would confuse me during my race.&lt;/p&gt;
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/pod.jpg&quot; title=&quot;Stryd foot-pod&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/pod_r300.jpg&quot; alt=&quot;Stryd foot-pod&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-1-Race.png&quot; title=&quot;Race power, pace and elevation&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-1-Race.png&quot; alt=&quot;Race power, pace and elevation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;The pod wasn&amp;rsquo;t perceivable at all on my shoe, and that unobtrusiveness is what convinced me to try it. I don&amp;rsquo;t think I would have tried with the chest strap. It was only a case of clipping the pod on my laces and forgetting about it until giving it back for later data analysis.&lt;/p&gt;
+
+&lt;p&gt;I felt pretty good going out of transition, and I settled quickly in my run. All &amp;ldquo;reasonable targets&amp;rdquo; went out of the window straight away and instead of starting slowly, I started at my target pace from other flatter races. Not crazy fast, but probably a bit too hard given the heat an humidity. Trying to maintain this over the first inclines did need some effort, and that&amp;rsquo;s clearly visible on the power curve.&lt;/p&gt;
+
+&lt;p&gt;Similarly, this happened all the way around the course on the inclines, and the biggest surge was to run up Palani, which is clearly visible on the power data.&lt;/p&gt;
+
+&lt;h5&gt;Power and pace on Palani&lt;/h5&gt;
+
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-2-Palani.png&quot; title=&quot;Power and pace on Palani&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-2-Palani.png&quot; alt=&quot;Power and pace on Palani&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Overall - based on how I felt on the day - I can break down my run in three parts: transition to the downhill after Huggo&amp;rsquo;s, Huggo&amp;rsquo;s to the exit of the energy lab, and the return into town. I remember having to tell myself to keep a lid on the pace after the first few kms. Then settling in a nice rhythm all the way around the Queen K, including the energy lab. And only starting to feel it once I rejoined the Highway, and on the rollers back into town.&lt;/p&gt;
+
+&lt;p&gt;Looking at the data, those three stages are roughly visible, especially the drop after the energy lab. Cadence and Leg Spring Stiffness show this better than pace, while power was slowly going down on average.&lt;/p&gt;
+
+&lt;h5&gt;Leg Spring Stiffness&lt;/h5&gt;
+
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-3-LSS.png&quot; title=&quot;Leg Spring Stiffness&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-3-LSS.png&quot; alt=&quot;Leg Spring Stiffness&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h5&gt;Cadence&lt;/h5&gt;
+
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-4-Cadence.png&quot; title=&quot;Cadence&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-4-Cadence.png&quot; alt=&quot;Cadence&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h5&gt;Power&lt;/h5&gt;
+
+
+&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-5-Power.png&quot; title=&quot;Power&quot; rel=&quot;lightbox[2016-10-26-stryd-a-first-run-with-power]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2016-10-26-stryd-a-first-run-with-power/MD-5-Power.png&quot; alt=&quot;Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Looking at some of the pros files, it&amp;rsquo;s clear that although a lot slower, I had a much more even run, so variations are not easy to spot. It felt great and well paced all the way around, and the data clearly shows this. This was an IM marathon PB for me by over 2 minutes, so even if I tired in the end, it was well paced.&lt;/p&gt;
+
+&lt;p&gt;The power curve seems to be tracking rather well to the efforts I felt during the run, so this is for me very comparable to working with power on the bike. I am not yet sure how I would use leg spring stiffness as this is a new metric for me. It seems that it would be initially a constant monitoring tool for running improvements, and perhaps fatigue monitoring along the season.&lt;/p&gt;
+
+&lt;p&gt;A lot of people are skeptical about it, including me to some extent, but I will refuse to label it as &amp;ldquo;utter nonsense&amp;rdquo; as some people I know called it!
+After all, didn&amp;rsquo;t the same thing happen when SRM created their first bike power meter in the 80s?
+I&amp;rsquo;ll be keen to review it and the data when it is fully mature.&lt;/p&gt;
+
+&lt;p&gt;Having benefited tremendously from using my bike power meter. If the metrics collected by the foot-pod are reliable and consistent, I can&amp;rsquo;t see any reason why it would be any worse than a power meter on a bike.
+The interpretation of the results will need tweaking and refining, but much like for a bike ride, there are plenty of variables that can affect it, and a good dose of pragmatism is needed.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, taking part in this trial will help Stryd perfect their product and analysis tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I do not work, nor am I sponsored by Stryd. The foot-pod I used during the Ironman World Championship was a prototype lent to me for the day, and I returned it right after the race. The data shown on the graphs was the result of the Stryd team doing some data crunching that their systems will eventually do automatically&lt;/em&gt;&lt;/p&gt;
+</description>
+                <pubDate>Wed, 26 Oct 2016 21:40:00 +0100</pubDate>
+                <link>http://tri.ekynoxe.com/stryd-a-first-run-with-power</link>
+                <author>hello@ekynoxe.com (Mathieu Davy)</author>
+                <guid isPermaLink="true">http://tri.ekynoxe.com/stryd-a-first-run-with-power</guid>
+            </item>
         
             <item>
                 <title>Ironman 70.3 Mallorca</title>
@@ -1155,310 +1234,6 @@ No prize for that sadly, so I&amp;rsquo;ll have to wait before climbing on a pod
                 <link>http://tri.ekynoxe.com/thorpe-park-sprint-triathlon-2014</link>
                 <author>hello@ekynoxe.com (Mathieu Davy)</author>
                 <guid isPermaLink="true">http://tri.ekynoxe.com/thorpe-park-sprint-triathlon-2014</guid>
-            </item>
-        
-            <item>
-                <title>Ironman 70.3 World Championship 2014 - Mont Tremblant - Canada</title>
-                <description>&lt;p&gt;Having qualified more than 12 months prior to this race, a lot has had the time to happen in the mean time, and the focus of the 2014 season was initially on longer distance with &lt;a href=&quot;/ironman-lanzarote-2014/&quot;&gt;Ironman Lanzarote&lt;/a&gt; in May. Jo therefore updated my training plan to re-focus on more speed over the summer, with the intermediate &amp;ldquo;target&amp;rdquo; of &lt;a href=&quot;/ironman-70-dot-3-uk-2014/&quot;&gt;70.3 UK in Wimbleball&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_31.jpg&quot; title=&quot;703_wc_31_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_31_r300.jpg&quot; alt=&quot;703_wc_31_r300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p&gt;For the 70.3 WC at the end of my season, I had no stress, no pressure, and, frankly, no real ambition. All I wanted was to enjoy the trip, the experience, and the race itself. I knew on the day I qualified that I wasn&amp;rsquo;t going to go for a top spot. That wouldn&amp;rsquo;t prevent me from giving it all, but I was just realistic about my abilities in that field.&lt;/p&gt;
-
-&lt;p&gt;For my first time at a World Championship event, I was ready to be amazed! I was ready to be welcomed as an elite athlete and soak it all up. Being with a few friends from &lt;a href=&quot;http://blackline.london&quot; title=&quot;Blackline London&quot;&gt;Black Line London&lt;/a&gt; and &lt;a href=&quot;http://www.freespeed.co.uk/&quot; title=&quot;Freespeed London&quot;&gt;Team Freespeed&lt;/a&gt; helped not feeling too lost without the usual support I get from my other half or my dad.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-
-&lt;p&gt;The athlete&amp;rsquo;s village and expo, however, was frankly rubbish, and not even worth mentioning. I guess manufacturers focus more on Kona, but that village felt even smaller than at other events. The organisation didn&amp;rsquo;t seem like anything special, and I was gob-smacked to see that both transitions were going to be a &amp;ldquo;bags on the floor&amp;rdquo; affair! At a World Championship event!&lt;/p&gt;
-
-&lt;p class=&quot;attachement&quot;&gt; &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_03.jpg&quot; title=&quot;-703_wc_03_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_03_r500.jpg&quot; alt=&quot;-703_wc_03_r300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p&gt;At least having friends around made it all a nice experience and the days prior to the race were fantastic. The surroundings of Mt Tremblant are wild and very green. I&amp;rsquo;m not sure there&amp;rsquo;s much to do in here other than be outdoors, and with nice roads like that, it was paradise to ride!&lt;/p&gt;
-
-&lt;p&gt;The few days before the race also brought some big doubts over my swim. While the weather was fine 2 days before the race (and it was fun to swim - quite far! - to find the &amp;ldquo;coffee boat&amp;rdquo;) the day before the race was very windy. There was quite some swell (Yes! In a lake!), and having gone around the peninsula from the start to the end of the race swim course, I really didn&amp;rsquo;t fancy going back. I eventually made it, trying to keep sight of speedy Roger and Jane, but that was a hard swim that I didn&amp;rsquo;t enjoy!&lt;/p&gt;
-
-&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/coffee_stop.png&quot; title=&quot;coffee_stop_r300.png&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/coffee_stop_r500.png&quot; alt=&quot;coffee_stop_r300.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p&gt;It was all very calm on race morning, though, so all my fears had vanished. I just had to do what I usually do. The fog lifted right before the pros started, and I was in the first wave behind that, ready to be mauled, dunked and drowned by fast &amp;lsquo;elite&amp;rsquo; swimmers.&lt;/p&gt;
-
-&lt;p class=&quot;attachement&quot;&gt;&lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_04.jpg&quot; title=&quot;-703_wc_04_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_04_r500.jpg&quot; alt=&quot;-703_wc_04_r300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;p&gt;Fearing that I really wasn&amp;rsquo;t to the level in the swim, I started on the left of the back row to avoid being in the scrum that was going to happen on the right where the buoys were. The scrum avoidance worked, but starting from the back was the wrong idea. Surprisingly, there were quite a few swimmers that looked a lot worse than me, and I had to navigate my way around a couple of packs that weren&amp;rsquo;t moving fast at all. Very strange, and not what I had expected, but it was nice to be mid-pack out of the swim, having not seen to many athletes from the next waves pass by.&lt;/p&gt;
-
-&lt;p&gt;T1 was quite long, as you have to run all the way from the lake to the tents, and I&amp;rsquo;m pleased with getting around in roughly 5min, with about 1km of running, plus the usual kit-faffing antics.&lt;/p&gt;
-
-&lt;p&gt;I wasn&amp;rsquo;t sure what to expect on the bike course. Having driven it at night, arriving a few days before, and only recced the very end, I didn&amp;rsquo;t know what the long out and back was going to be. It was quite lumpy in places, but nothing hard, with very smooth roads, and only a little wind to start with.
-After the balmy 20.4C water, though, the 10C air temperature was initially quite chilly, but that strangely didn&amp;rsquo;t hinder me at all. It was my first outing in the fantastic Fusion speed-suit, and it seems that it worked quite well.&lt;/p&gt;
-
-&lt;p&gt;But if the course wasn&amp;rsquo;t a problem, some of the other athletes definitely were. Never have I seen so much drafting in a race. I guess the waves starts format and the relatively comparable speed of people in the swim was always going to make it hard to find some clear road. But some packs of what looked like more than 50 riders weren&amp;rsquo;t even trying not to draft. Disgraceful attitude, drafting and blocking everywhere with little, if any, enforcement. I think the pros did complain about it as well&amp;hellip;
-I could understand if, sometimes, at other events, people didn&amp;rsquo;t really get the drafting rules, but not at an event you had to qualify for. There&amp;rsquo;s simply no excuse.&lt;/p&gt;
-
-&lt;p&gt;I managed to break free of one pack at some point, but the second time, it didn&amp;rsquo;t work. 50 guys in a f**** pack are always going to be faster than you, no matter what. So I let them pass and - with others - complained a few times to marshals on motorbikes coming in the other direction.
-Eventually one Marshall came around and carded about 10 guys in one go, but the situation was ridiculous. At a WC event, this shouldn&amp;rsquo;t happen!&lt;/p&gt;
-
-&lt;p&gt;After I got to grips with letting the big packs go, I managed to concentrate on my own race and tried to put some Watts down. I didn&amp;rsquo;t really feel like I had much - possibly due to the cold temperature at the start - but the overall numbers weren&amp;rsquo;t too bad with a 218W NP. A bit under what I had expected, but with a 2h24' bike, I can say I&amp;rsquo;m quite pleased!&lt;/p&gt;
-
-&lt;p&gt;The last 20K of the ride were quite hilly, and I knew it, having ridden it a few days before, but it felt a lot harder than on that training ride. I still passed a lot of the heavy muscle guys (as usual), only for them to pass me again on the way down.&lt;/p&gt;
-
-&lt;p&gt;Usual stuff, really, but pretty swiftly into T2! This one was pretty quick, giving the bike to a handler and only having to pick-up a bag on the floor.&lt;/p&gt;
-
-&lt;p&gt;I felt good on the run, and maintained my pace even over the lumps, which I was very happy with. By now, I knew the course like the back of my hand as my accommodation was almost at the turnaround point. I knew where I should hold off a little and where I could push, which helped a lot. That course is definitely not easy! The way into town for example, with the massive climb right at the end of the lap, is pretty steep!&lt;/p&gt;
-
-&lt;p&gt;I was looking around to see if I could recognise faces during the run, and the only pro I managed to recognise was Sebastian Kienle, who didn&amp;rsquo;t look too good at the time.
-Matt Molloy and Roger Barr were obviously pushing hard, but they managed a sign, which was nice in that crazy crowd!&lt;/p&gt;
-
-&lt;p&gt;Other than this, the run was almost a best, only because of a loo stop 2/3 in as I had the trot all week. But otherwise the nutrition seemed to have worked well. It hadn&amp;rsquo;t been too hot on the bike, so I didn&amp;rsquo;t drink all my gels, and in retrospect, it was probably wise, so to avoid further &amp;lsquo;damage&amp;rsquo; on the run&lt;/p&gt;
-
-&lt;p&gt;I wanted to enjoy my finish, but I almost got knocked over the barriers by an idiot who shoved me aside in the finish chute. Being so far down the rankings, that was just stupid and pointless.&lt;/p&gt;
-
-&lt;p&gt;Overall, that race was great. The course was very fast despite the lumps, and if it wasn&amp;rsquo;t that far from Europe, I&amp;rsquo;d certainly go back there!&lt;/p&gt;
-
-&lt;p&gt;On the whole, the venue was fantastic, and the race challenging enough. So from a &amp;ldquo;holiday&amp;rdquo; point of view, it was a great trip. Race-wise, however, except for the draft-fest, there was really nothing extra or new that I didn&amp;rsquo;t already experience at other races around the world, so that wasn&amp;rsquo;t anything special.&lt;/p&gt;
-
-&lt;p&gt;Good PB though! Thank you Canada and the people of Mt Tremblant.&lt;/p&gt;
-
-&lt;div class=&quot;table_container&quot;&gt;
-    &lt;table&gt;
-        &lt;thead&gt;
-            &lt;tr&gt;
-                &lt;th&gt;&lt;/th&gt;
-                &lt;th&gt;time&lt;/th&gt;
-                &lt;th&gt;GPS data&lt;/th&gt;
-            &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Swim (1.9Km)&lt;/td&gt;
-                &lt;td&gt;31'17&quot;&lt;/td&gt;
-                &lt;td&gt;&lt;a title=&quot;swim data&quot; href=&quot;https://connect.garmin.com/modern/activity/585418644&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;T1&lt;/td&gt;
-                &lt;td&gt;5'02&quot;&lt;/td&gt;
-                &lt;td&gt;&lt;a title=&quot;t1 data&quot; href=&quot;https://connect.garmin.com/modern/activity/585418647&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Bike (90km)&lt;/td&gt;
-                &lt;td&gt;2h23'59&quot;&lt;/td&gt;
-                &lt;td&gt;&lt;a title=&quot;bike data&quot; href=&quot;https://connect.garmin.com/modern/activity/585418648&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;T2&lt;/td&gt;
-                &lt;td&gt;1'55&quot;&lt;/td&gt;
-                &lt;td&gt;&lt;a title=&quot;t2 data&quot; href=&quot;https://connect.garmin.com/modern/activity/585418657&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Run (21.1Km)&lt;/td&gt;
-                &lt;td&gt;1h33'15&quot;&lt;/td&gt;
-                &lt;td&gt;&lt;a title=&quot;run data&quot; href=&quot;https://connect.garmin.com/modern/activity/585418662&quot;&gt;data&lt;/a&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Finish&lt;/td&gt;
-                &lt;td&gt;4h35'10&quot;&lt;/td&gt;
-                &lt;td&gt;484th overall, 101st in M30-34&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;gallery&quot;&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_01.jpg&quot; title=&quot;-703_wc_01_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_01_r300.jpg&quot; alt=&quot;-703_wc_01_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_02.jpg&quot; title=&quot;-703_wc_02_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_02_r300.jpg&quot; alt=&quot;-703_wc_02_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_03.jpg&quot; title=&quot;-703_wc_03_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_03_r300.jpg&quot; alt=&quot;-703_wc_03_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_04.jpg&quot; title=&quot;-703_wc_04_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_04_r300.jpg&quot; alt=&quot;-703_wc_04_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_05.jpg&quot; title=&quot;-703_wc_05_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/-703_wc_05_r300.jpg&quot; alt=&quot;-703_wc_05_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_01.JPG&quot; title=&quot;703_wc_01_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_01_r300.JPG&quot; alt=&quot;703_wc_01_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_02.JPG&quot; title=&quot;703_wc_02_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_02_r300.JPG&quot; alt=&quot;703_wc_02_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_03.JPG&quot; title=&quot;703_wc_03_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_03_r300.JPG&quot; alt=&quot;703_wc_03_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_04.JPG&quot; title=&quot;703_wc_04_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_04_r300.JPG&quot; alt=&quot;703_wc_04_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_05.JPG&quot; title=&quot;703_wc_05_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_05_r300.JPG&quot; alt=&quot;703_wc_05_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_06.JPG&quot; title=&quot;703_wc_06_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_06_r300.JPG&quot; alt=&quot;703_wc_06_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_07.JPG&quot; title=&quot;703_wc_07_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_07_r300.JPG&quot; alt=&quot;703_wc_07_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_08.JPG&quot; title=&quot;703_wc_08_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_08_r300.JPG&quot; alt=&quot;703_wc_08_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_09.JPG&quot; title=&quot;703_wc_09_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_09_r300.JPG&quot; alt=&quot;703_wc_09_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_10.JPG&quot; title=&quot;703_wc_10_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_10_r300.JPG&quot; alt=&quot;703_wc_10_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_11.JPG&quot; title=&quot;703_wc_11_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_11_r300.JPG&quot; alt=&quot;703_wc_11_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_12.JPG&quot; title=&quot;703_wc_12_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_12_r300.JPG&quot; alt=&quot;703_wc_12_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_13.JPG&quot; title=&quot;703_wc_13_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_13_r300.JPG&quot; alt=&quot;703_wc_13_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_14.JPG&quot; title=&quot;703_wc_14_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_14_r300.JPG&quot; alt=&quot;703_wc_14_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_15.JPG&quot; title=&quot;703_wc_15_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_15_r300.JPG&quot; alt=&quot;703_wc_15_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_16.JPG&quot; title=&quot;703_wc_16_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_16_r300.JPG&quot; alt=&quot;703_wc_16_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_17.JPG&quot; title=&quot;703_wc_17_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_17_r300.JPG&quot; alt=&quot;703_wc_17_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_18.JPG&quot; title=&quot;703_wc_18_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_18_r300.JPG&quot; alt=&quot;703_wc_18_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_19.JPG&quot; title=&quot;703_wc_19_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_19_r300.JPG&quot; alt=&quot;703_wc_19_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_20.JPG&quot; title=&quot;703_wc_20_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_20_r300.JPG&quot; alt=&quot;703_wc_20_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_21.JPG&quot; title=&quot;703_wc_21_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_21_r300.JPG&quot; alt=&quot;703_wc_21_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_22.JPG&quot; title=&quot;703_wc_22_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_22_r300.JPG&quot; alt=&quot;703_wc_22_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_23.JPG&quot; title=&quot;703_wc_23_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_23_r300.JPG&quot; alt=&quot;703_wc_23_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_24.JPG&quot; title=&quot;703_wc_24_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_24_r300.JPG&quot; alt=&quot;703_wc_24_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_25.JPG&quot; title=&quot;703_wc_25_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_25_r300.JPG&quot; alt=&quot;703_wc_25_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_26.JPG&quot; title=&quot;703_wc_26_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_26_r300.JPG&quot; alt=&quot;703_wc_26_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_27.JPG&quot; title=&quot;703_wc_27_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_27_r300.JPG&quot; alt=&quot;703_wc_27_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_28.JPG&quot; title=&quot;703_wc_28_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_28_r300.JPG&quot; alt=&quot;703_wc_28_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_29.JPG&quot; title=&quot;703_wc_29_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_29_r300.JPG&quot; alt=&quot;703_wc_29_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_30.JPG&quot; title=&quot;703_wc_30_r300.JPG&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_30_r300.JPG&quot; alt=&quot;703_wc_30_r300.JPG&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-    &lt;dl class=&quot;gallery-item&quot;&gt;
-        &lt;dt class=&quot;gallery-icon attachement&quot;&gt;
-            &lt;a href=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_31.jpg&quot; title=&quot;703_wc_31_r300.jpg&quot; rel=&quot;lightbox[20140907_703_wc]&quot;&gt;&lt;img src=&quot;http://cdn.ekynoxe.com/content/2014-09-07-ironman-70-dot-3-world-championship-2014-mont-tremblant-canada/703_wc_31_r300.jpg&quot; alt=&quot;703_wc_31_r300.jpg&quot; /&gt;&lt;/a&gt;
-        &lt;/dt&gt;
-    &lt;/dl&gt;
-&lt;/div&gt;
-
-
-
-</description>
-                <pubDate>Sun, 07 Sep 2014 08:00:00 +0100</pubDate>
-                <link>http://tri.ekynoxe.com/ironman-70-dot-3-world-championship-2014-mont-tremblant-canada</link>
-                <author>hello@ekynoxe.com (Mathieu Davy)</author>
-                <guid isPermaLink="true">http://tri.ekynoxe.com/ironman-70-dot-3-world-championship-2014-mont-tremblant-canada</guid>
             </item>
         
     </channel>
