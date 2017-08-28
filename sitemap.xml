@@ -159,19 +159,17 @@
     </url>
 
     <url>
-        <loc>http://tri.ekynoxe.com/404.html</loc>
+        <loc>http://tri.ekynoxe.com/404</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/500.html</loc>
+        <loc>http://tri.ekynoxe.com/500</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/archive/</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/for-sale/</loc>
-    </url><url>
         <loc>http://tri.ekynoxe.com/</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/race-results/</loc>
+        <loc>http://tri.ekynoxe.com/for-sale/</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/rss.xml</loc>
+        <loc>http://tri.ekynoxe.com/race-results/</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/tracker-widget-test/</loc>
     </url><url>
@@ -185,11 +183,11 @@
     </url><url>
         <loc>http://tri.ekynoxe.com/categories/cycling/</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/categories/gear review/</loc>
+        <loc>http://tri.ekynoxe.com/categories/gear%20review/</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/categories/mechanics/</loc>
     </url><url>
-        <loc>http://tri.ekynoxe.com/categories/every day training/</loc>
+        <loc>http://tri.ekynoxe.com/categories/Every%20Day%20Training/</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/categories/running/</loc>
     </url><url>
