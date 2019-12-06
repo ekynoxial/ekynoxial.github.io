@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>http://tri.ekynoxe.com/going-further</loc>
+    </url><url>
         <loc>http://tri.ekynoxe.com/3-peaks-cyclocross</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/ironman-world-championship-kona-hawaii</loc>
@@ -196,5 +198,7 @@
         <loc>http://tri.ekynoxe.com/categories/injured/</loc>
     </url><url>
         <loc>http://tri.ekynoxe.com/categories/cyclocross/</loc>
+    </url><url>
+        <loc>http://tri.ekynoxe.com/categories/bikepacking/</loc>
     </url>
 </urlset>
